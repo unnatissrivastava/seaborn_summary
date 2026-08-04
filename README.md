@@ -8,7 +8,7 @@ This repo is meant as a handy reference — whether you're learning Seaborn for 
 
 ## 📄 Contents
 
-- [`seaborn_cheatsheet.pdf`](./seaborn_cheatsheet.pdf) — the main cheat sheet doc
+- [`seaborn_cheatsheet.pdf`](./seaborn_cheatsheet.pdf) — the main cheat sheet docum
 
 ---
 
