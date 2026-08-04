@@ -39,13 +39,6 @@ import matplotlib.pyplot as plt
 # Load a built-in dataset
 df = sns.load_dataset("tips")
 
-# Example plot
-sns.scatterplot(data=df, x="total_bill", y="tip", hue="sex")
-plt.show()
-🤝 Contributing
-
-Suggestions and improvements are welcome! Feel free to open an issue or submit a pull request if you'd like to add more examples or fix something.
-
 ⭐ Support
 
 If you found this cheat sheet useful, consider giving this repository a Star ⭐ — it helps others find it too.
