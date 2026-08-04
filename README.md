@@ -17,27 +17,7 @@ Regression Plots
 Themes & Styles
 Color Palettes
 Figure Customization
-🛠️ Tech Stack
-Python
-Seaborn
-Matplotlib
-Pandas
-NumPy
-🚀 Getting Started
-
-If you want to follow along or try out the examples yourself:
-
-bash
-pip install seaborn matplotlib pandas numpy
-
-Then in Python:
-
-python
-import seaborn as sns
-import matplotlib.pyplot as plt
-
-# Load a built-in dataset
-df = sns.load_dataset("tips")
+🛠️ Tech Sta
 
 ⭐ Support
 
