@@ -7,6 +7,3 @@ A quick and beginner-friendly **Seaborn Cheat Sheet** covering the most commonly
 - Seaborn Basics
 - Built-in Datasets
 - Statistical Plots
-- Distribution Plots
-- Categorical Plots
-- Matrix Plots
