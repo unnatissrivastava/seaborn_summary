@@ -69,4 +69,4 @@ Suggestions and improvements are welcome! Feel free to open an issue or submit a
 
 ## ⭐ Support
 
-If you found this cheat sheet useful, consider giving this repository a **Star ⭐** — it helps others find it too.
+If you found this cheat sheet useful, consider giving this repository a *Star ⭐** — it helps others find it too.
