@@ -17,6 +17,3 @@ A quick and beginner-friendly **Seaborn Cheat Sheet** covering the most commonly
 
 ## 🛠️ Tech Stack
 
-- Python
-- Seaborn
-- Matplotlib
