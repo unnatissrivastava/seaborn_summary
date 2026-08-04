@@ -17,8 +17,3 @@ Regression Plots
 Themes & Styles
 Color Palettes
 Figure Customization
-🛠️ Tech Sta
-
-⭐ Support
-
-If you found this cheat sheet useful, consider giving this repository a Star ⭐ — it helps others find it too.
