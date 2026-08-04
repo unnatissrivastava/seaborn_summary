@@ -25,4 +25,3 @@ A quick and beginner-friendly **Seaborn Cheat Sheet** covering the most commonly
 
 ## ⭐ Support
 
-If you found this cheat sheet useful, consider giving this repository a **Star ⭐**.
