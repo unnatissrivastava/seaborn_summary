@@ -10,6 +10,3 @@ A quick and beginner-friendly **Seaborn Cheat Sheet** covering the most commonly
 - Distribution Plots
 - Categorical Plots
 - Matrix Plots
-- Regression Plots
-- Themes & Styles
-- Color Palettes
