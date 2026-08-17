@@ -2,7 +2,7 @@
 
 A quick, beginner-friendly **Seaborn Cheat Sheet** covering the most commonly used plots, functions, and customization options for data visualization in Python.
 
-This repo is meant as a handy reference  whether you're learning Seaborn for the first time or just need a quick reminder of syntax while working on a data science project.
+This repo is meant as a handy reference whether you're learning Seaborn for the first time or just need a quick reminder of syntax while working on a data science project.
 
 ---
 
